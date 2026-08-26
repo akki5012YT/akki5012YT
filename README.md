@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://classroom.google.com/c/ODcwMzYwNzQyMTU1?cjc=j4p3mc53">
-    <img src="https://res.cloudinary.com/aq7ljolj/image/upload/v1787715878/IMG_2653.jpg" alt="Classroomはこちら" />
+    <img src="https://res.cloudinary.com/aq7ljolj/image/upload/v1787715878/IMG_2653.jpg" alt="Classroomはこちら" height="40"/>
   </a>
 </p>
 
