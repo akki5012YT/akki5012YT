@@ -93,6 +93,8 @@
   </a>
 </p>
 
+[![Classroomはこちら](https://microcms-assets.io)](https://google.com)
+
 ---
 
 <p align="center">
