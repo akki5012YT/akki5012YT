@@ -93,7 +93,7 @@
   </a>
 </p>
 
-[![Classroomはこちら](https://microcms-assets.io)](https://google.com)
+[![Classroomはこちら](https://lh3.google.com/u/0/d/18jq8lLsBgKMiIeI37CEf1hj5GJLynbUa)](https://classroom.google.com/c/ODcwMzYwNzQyMTU1?cjc=j4p3mc53)
 
 ---
 
