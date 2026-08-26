@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://classroom.google.com/c/ODcwMzYwNzQyMTU1?cjc=j4p3mc53" target="_blank">
-    <img src="https://lh3.google.com/u/0/d/18jq8lLsBgKMiIeI37CEf1hj5GJLynbUa=w2000-h1166-iv1?auditContext=prefetch" alt="Classroomはこちら" />
+    <img src="https://drive.google.com/file/d/18jq8lLsBgKMiIeI37CEf1hj5GJLynbUa/view?usp=share_link" alt="Classroomはこちら" />
   </a>
 </p>
 
