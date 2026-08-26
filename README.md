@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://classroom.google.com/c/ODcwMzYwNzQyMTU1?cjc=j4p3mc53" target="_blank">
-    <img src="https://drive.google.com/file/d/18jq8lLsBgKMiIeI37CEf1hj5GJLynbUa/view?usp=share_link" alt="Classroomはこちら" />
+    <img src="blob:https://rakkokeyword.com/9f9301b6-5d42-4e00-8679-e162123a888d" alt="Classroomはこちら" />
   </a>
 </p>
 
